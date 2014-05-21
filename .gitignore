@@ -1,0 +1,11 @@
+#Ignore bundker config
+/.bundle
+#Ignore the default SQLite Database
+/db/*.sqlite3
+#ignore all logfiles and templates
+/log/*.log
+# Ignore other unneeded files.
+doc/
+*.swp
+* ̃
+.project .DS Store
